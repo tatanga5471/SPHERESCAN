@@ -218,13 +218,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-# SPHERESCAN project-specific exclusions
-spherex_data/
-ai_results/
-.venv/src/test_data/
-*.fits
-*.fit
-*.fts
-
-# Local generated files
-.streamlit/secrets.toml
