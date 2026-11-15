@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# --- PlanetX SPHEREx Özel Eklemeler ---
+# Yerel AI model ağırlıkları ve geçici sonuç klasörleri
+models/
+ai_results/
+
+# PyInstaller build klasörleri (Derleme artıkları)
+build/
+dist/
+*.spec
